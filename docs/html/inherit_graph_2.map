@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcloud_1_1ptl_1_1menu_1_1Menu.html" title="cloud.ptl.menu.Menu" alt="" coords="5,132,148,159"/>
+<area shape="rect" id="node2" href="$classcloud_1_1ptl_1_1menu_1_1AddContactMenu.html" title="cloud.ptl.menu.AddContactMenu" alt="" coords="208,5,420,32"/>
+<area shape="rect" id="node3" href="$classcloud_1_1ptl_1_1menu_1_1ContactSearchMenu.html" title="cloud.ptl.menu.ContactSearchMenu" alt="" coords="199,56,429,83"/>
+<area shape="rect" id="node4" href="$classcloud_1_1ptl_1_1menu_1_1FindByNameMenu.html" title="cloud.ptl.menu.FindByNameMenu" alt="" coords="205,107,423,133"/>
+<area shape="rect" id="node5" href="$classcloud_1_1ptl_1_1menu_1_1FindBySurnameMenu.html" title="cloud.ptl.menu.FindBySurnameMenu" alt="" coords="196,157,432,184"/>
+<area shape="rect" id="node6" href="$classcloud_1_1ptl_1_1menu_1_1MainMenu.html" title="cloud.ptl.menu.MainMenu" alt="" coords="229,208,399,235"/>
+<area shape="rect" id="node7" href="$classcloud_1_1ptl_1_1menu_1_1ModifyContactMenu.html" title="cloud.ptl.menu.ModifyContactMenu" alt="" coords="200,259,428,285"/>
+</map>

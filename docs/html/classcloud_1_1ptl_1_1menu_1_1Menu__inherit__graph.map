@@ -1,0 +1,8 @@
+<map id="cloud.ptl.menu.Menu" name="cloud.ptl.menu.Menu">
+<area shape="rect" id="node2" href="$classcloud_1_1ptl_1_1menu_1_1AddContactMenu.html" title="{cloud.ptl.menu.AddContactMenu\n|&#45; name\l&#45; surname\l&#45; phoneNumber\l&#45; streetName\l&#45; homeNumber\l&#45; flatNumber\l&#45; postOffice\l&#45; postalCode\l|+ AddContactMenu()\l+ show()\l+ execute()\l+ shouldBreak()\l}" alt="" coords="5,204,217,428"/>
+<area shape="rect" id="node3" href="$classcloud_1_1ptl_1_1menu_1_1ContactSearchMenu.html" title="{cloud.ptl.menu.ContactSearchMenu\n|&#45; response\l|+ ContactSearchMenu()\l+ show()\l+ execute()\l+ shouldBreak()\l}" alt="" coords="241,255,472,377"/>
+<area shape="rect" id="node4" href="$classcloud_1_1ptl_1_1menu_1_1FindByNameMenu.html" title="{cloud.ptl.menu.FindByNameMenu\n|&#45; userResponse\l|+ FindByNameMenu()\l+ show()\l+ execute()\l+ shouldBreak()\l}" alt="" coords="497,255,715,377"/>
+<area shape="rect" id="node5" href="$classcloud_1_1ptl_1_1menu_1_1FindBySurnameMenu.html" title="{cloud.ptl.menu.FindBySurnameMenu\n|&#45; userResponse\l|+ FindBySurnameMenu()\l+ show()\l+ execute()\l+ shouldBreak()\l}" alt="" coords="740,255,976,377"/>
+<area shape="rect" id="node6" href="$classcloud_1_1ptl_1_1menu_1_1MainMenu.html" title="{cloud.ptl.menu.MainMenu\n|&#45; response\l|+ MainMenu()\l+ show()\l+ execute()\l+ shouldBreak()\l}" alt="" coords="1001,255,1171,377"/>
+<area shape="rect" id="node7" href="$classcloud_1_1ptl_1_1menu_1_1ModifyContactMenu.html" title="{cloud.ptl.menu.ModifyContactMenu\n|&#45; hash\l|+ ModifyContactMenu()\l+ show()\l+ execute()\l+ shouldBreak()\l}" alt="" coords="1196,255,1424,377"/>
+</map>

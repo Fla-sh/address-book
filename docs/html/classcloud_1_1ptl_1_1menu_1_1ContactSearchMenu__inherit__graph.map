@@ -1,0 +1,3 @@
+<map id="cloud.ptl.menu.ContactSearchMenu" name="cloud.ptl.menu.ContactSearchMenu">
+<area shape="rect" id="node2" href="$classcloud_1_1ptl_1_1menu_1_1Menu.html" title="{cloud.ptl.menu.Menu\n||+ show()\l+ execute()\l~ readResponseInteger()\l~ readResponseInteger()\l~ readResponseString()\l# shouldBreak()\l}" alt="" coords="37,5,204,156"/>
+</map>
