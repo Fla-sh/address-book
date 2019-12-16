@@ -15,5 +15,5 @@ Just compile and run with your Java manager of choice
   - `menu.menu` - polymorphic class for all menus. Each menu implements at least `show()` and `execute()` methods, which are used to interact with user and further with `manager`
   - `menu.*Menu` - classes for interactin with user, polymorphic childs of `menu`
   
- ## Post
-*TODO*
+ ## Post mortem
+Contacts are hold in `contact.list` file and are JSON formated string. Initialization of this file is not required as book does it itself. 
